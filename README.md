@@ -1,4 +1,4 @@
-### Hello System 👋
+### Hell() System 👋
 
 <!--
 - 🔭 I’m currently working on ...
@@ -13,3 +13,4 @@
 
 - 💬 Ask me about anything
 - 📫 How to reach me: connect with me on LinkedIn.
+- you can also subscribe to my YT channel for some totally unrelated stuff.
