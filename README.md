@@ -1,4 +1,4 @@
-### Hell().W().rld 👋
+### Hell() 👋
 
 <!--
 - 🔭 I’m currently working on ...
@@ -11,6 +11,6 @@
 - ⚡ Fun fact: ...
 -->
 
-- 💬 Ask me about anything
+- 💬 Chat with me about anything, even if it is only about how bad the weather is
 - 📫 How to reach me: connect with me on LinkedIn.
 - you can also subscribe to my YT channel for some totally unrelated stuff.
