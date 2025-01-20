@@ -14,3 +14,7 @@
 - 💬 Chat with me about anything, even if it is only about how bad or nice the weather is
 - 📫 How to reach me: connect with me on LinkedIn https://linkedin.com/in/nebojsatomic
 - you can also subscribe to my YT channel for some totally unrelated ( or related ) stuff: https://youtube.com/@nebtom
+
+![github-me](https://github.com/user-attachments/assets/2b33c03c-b827-45bb-bfb6-5a44aa242c33)
+
+
