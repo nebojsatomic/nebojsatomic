@@ -17,4 +17,6 @@
 
 ![github-me](https://github.com/user-attachments/assets/2b33c03c-b827-45bb-bfb6-5a44aa242c33)
 
+[![An image of @nebojsatmc's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nebojsatmc)](https://holopin.io/@nebojsatmc)
+
 
