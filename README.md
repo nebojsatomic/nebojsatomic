@@ -11,6 +11,8 @@
 - ⚡ Fun fact: ...
 -->
 
+[![An image of @nebojsatmc's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nebojsatmc)](https://holopin.io/@nebojsatmc)
+
 - 💬 Chat with me about anything, even if it is only about how bad or nice the weather is
 - 📫 How to reach me: connect with me on LinkedIn https://linkedin.com/in/nebojsatomic
 - you can also subscribe to my YT channel for some totally unrelated ( or related ) stuff: https://youtube.com/@nebtom
